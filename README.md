@@ -23,13 +23,14 @@ I love doing things that get me excited and I'm always looking for new challenge
 
 <br>
 
-
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Once-a-deadcat&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Once-a-deadcat" />
 </a>
+</div>
 
 
 <br>
