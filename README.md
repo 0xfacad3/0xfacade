@@ -3,10 +3,8 @@
 
 [Check out my GitHub City!](https://honzaap.github.io/GithubCity/?name=Once-a-deadcat&year=2023)
 
+![GitHub City](https://raw.githubusercontent.com/Once-a-deadcat/Once-a-deadcat/main/screenshot.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <img src="https://raw.githubusercontent.com/Once-a-deadcat/Once-a-deadcat/main/profile.png" alt="Profile Picture">
 
