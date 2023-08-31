@@ -8,19 +8,9 @@
 
 
 <h1 align="left">Hi👋, I'm Cat</h1>
+
 <h3 align="left">
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Once-a-deadcat)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Once-a-deadcat&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Once-a-deadcat" />
-</a>
-
-<br>
 
 I'm a Student, Developer, and Artist 🎨
 
@@ -34,11 +24,22 @@ I love doing things that get me excited and I'm always looking for new challenge
 <br>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Once-a-deadcat&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Once-a-deadcat" />
+</a>
+
+
+<br>
+
+
 <h2 align="left">
-📘 I currently have language skils 
+📘 I currently have framework skils
 </h2>
 <h3 align="left">
-Python, C#, Go, HTML&CSS, JS&TS, PHP, SQL, and more.
+FastAPI, Next.js, React.js, Nuxt.js, Vue.js, Gin, Fiber, ASP.NET and more.
 </h3>
 
 
@@ -50,6 +51,9 @@ Python, C#, Go, HTML&CSS, JS&TS, PHP, SQL, and more.
 </h2>
 <h3 align="left">
 Docker, Microsoft Azure, AWS, and more.
+
+
+Studying: Cloud Architecture and more.
 </h3>
 
 
@@ -57,7 +61,7 @@ Docker, Microsoft Azure, AWS, and more.
 
 
 <h2 align="left">
-📕 I love...
+📕 I love 
 </h2>
 <h3 align="left">
 Designing solutions using Cloud, DevOps, and CI/CD practices.
