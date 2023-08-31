@@ -4,11 +4,16 @@
 
 
 <br>
+<br>
 
 
 <h1 align="left">Hi👋, I'm Cat</h1>
 <h3 align="left">
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Once-a-deadcat)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 I'm a Student, Developer, and Artist 🎨
 
