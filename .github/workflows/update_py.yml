@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install selenium
+          pip install selenium Pillow
 
       - name: Take screenshot
         run: python .github/scripts/take-screenshot.py
