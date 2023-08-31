@@ -6,14 +6,14 @@
 <br>
 
 
-<h1 align="left">Hi, I'm Cat</h1>
+<h1 align="left">Hi👋, I'm Cat</h1>
 <h3 align="left">
 
 
-I'm a Student, Developer, and Artist!!
+I'm a Student, Developer, and Artist 🎨
 
 
-I love doing things that get me excited!!
+I love doing things that get me excited and I'm always looking for new challenges 🔥
 
 
 </h3>
