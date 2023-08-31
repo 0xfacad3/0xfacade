@@ -28,7 +28,8 @@ def take_screenshot():
         for _ in range(150):  # 10秒間、0.025秒ごとにスクリーンショットを撮影
             screenshot = driver.get_screenshot_as_png()
             screenshots.append(screenshot)
-            time.sleep(0.020)
+            # 60fpsになるように調整
+            time.sleep(0.010)
 
         # 連続したスクリーンショットからGIFを作成
         images = [Image.open(io.BytesIO(screenshot)) for screenshot in screenshots]
