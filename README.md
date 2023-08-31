@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Cat</h1>
+<h1 align="left">Hi, I'm Cat</h1>
 <h3 align="left">
 
 
@@ -39,7 +39,9 @@ Designing solutions using Cloud, DevOps, and CI/CD practices.
 
 
 </h3>
-----
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <a
   href="https://honzaap.github.io/GithubCity/"
 >
