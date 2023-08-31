@@ -11,6 +11,10 @@ I love doing things that get me excited!!
 </h3>
 
 
+<br>
+<br>
+
+
 <h2 align="left">
 I Currently Have Language Skils 
 </h2>
@@ -19,6 +23,8 @@ Python, C#, Go, HTML&CSS, JS&TS, PHP, SQL, and more.
 </h3>
 
 
+<br>
+<br>
 
 
 <h2 align="left">
@@ -29,6 +35,8 @@ Docker, Microsoft Azure, AWS, and more.
 </h3>
 
 
+<br>
+<br>
 
 
 <h2 align="left">
@@ -39,6 +47,8 @@ Designing solutions using Cloud, DevOps, and CI/CD practices.
 </h3>
 
 
+<br>
+<br>
 
 
 <h2>
