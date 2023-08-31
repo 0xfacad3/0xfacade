@@ -25,7 +25,9 @@ def take_screenshot():
 
         # スクリーンショットを連続して撮影
         screenshots = []
-        for _ in range(60):  # 5秒間、0.1秒ごとにスクリーンショットを撮影
+        for i in range(60):  # 6秒間、0.05秒ごとにスクリーンショットを撮影
+            zoom_level = 100 - (i * 0.5)  # Zoom out from 100% to 70%
+            driver.execute_script(f"document.body.style.zoom='{zoom_level}%'")
             screenshot = driver.get_screenshot_as_png()
             screenshots.append(screenshot)
             time.sleep(0.05)
