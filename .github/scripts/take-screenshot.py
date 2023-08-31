@@ -1,8 +1,9 @@
+import io
 import os
 import time
+from PIL import Image
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from PIL import Image
 
 def take_screenshot():
     # Chromeのオプション設定
