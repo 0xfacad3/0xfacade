@@ -1,6 +1,8 @@
 import os
+import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from PIL import Image
 
 def take_screenshot():
     # Chromeのオプション設定
@@ -20,8 +22,17 @@ def take_screenshot():
         # ウェブサイトがロードされるまで待つ
         driver.implicitly_wait(10)
 
-        # スクリーンショットを撮影
-        driver.save_screenshot('screenshot.png')
+        # スクリーンショットを連続して撮影
+        screenshots = []
+        for _ in range(50):  # 5秒間、0.1秒ごとにスクリーンショットを撮影
+            screenshot = driver.get_screenshot_as_png()
+            screenshots.append(screenshot)
+            time.sleep(0.1)
+
+        # 連続したスクリーンショットからGIFを作成
+        images = [Image.open(io.BytesIO(screenshot)) for screenshot in screenshots]
+        images[0].save('screenshot.gif', save_all=True, append_images=images[1:], loop=0, duration=100)
+
     finally:
         driver.quit()
 
