@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Cat</h1>
 <h3 align="left">
+```
   I'm a Student, Developer, and Artist!!
+```
 </h3>
 
 
