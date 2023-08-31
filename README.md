@@ -39,6 +39,10 @@ Designing solutions using Cloud, DevOps, and CI/CD practices.
 
 
 </h3>
-
-<img src="https://raw.githubusercontent.com/Once-a-deadcat/Once-a-deadcat/main/screenshot.gif" alt="Profile Picture">
+----
+<a
+  href="https://honzaap.github.io/GithubCity/"
+>
+  <img src="https://raw.githubusercontent.com/Once-a-deadcat/Once-a-deadcat/main/screenshot.gif" alt="Profile Picture">
+</a>
 
