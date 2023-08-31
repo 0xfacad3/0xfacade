@@ -30,7 +30,7 @@ jobs:
           git config --global user.name "Once-a-deadcat"
           git config --global user.email "catgorogoro994@gmail.com"
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update screenshot" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update screenshot" && git push "https://${GITHUB_TOKEN}@github.com/${{ github.repository }}")
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
-          
+
