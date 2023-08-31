@@ -12,7 +12,6 @@ I love doing things that get me excited!!
 
 
 <br>
-<br>
 
 
 <h2 align="left">
@@ -23,7 +22,6 @@ Python, C#, Go, HTML&CSS, JS&TS, PHP, SQL, and more.
 </h3>
 
 
-<br>
 <br>
 
 
@@ -36,7 +34,6 @@ Docker, Microsoft Azure, AWS, and more.
 
 
 <br>
-<br>
 
 
 <h2 align="left">
@@ -48,7 +45,6 @@ Designing solutions using Cloud, DevOps, and CI/CD practices.
 
 
 <br>
-<br>
 
 
 <h2>
@@ -59,6 +55,8 @@ Designing solutions using Cloud, DevOps, and CI/CD practices.
 [Twitter](https://twitter.com/Hey_ImCat)
 
 </h3>
+
+<br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
