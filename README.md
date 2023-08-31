@@ -12,7 +12,7 @@ I love doing things that get me excited!!
 
 
 <h2 align="left">
-🌱 I Currently Have Language Skils 
+I Currently Have Language Skils 
 </h2>
 <h3 align="left">
 Python, C#, Go, HTML&CSS, JS&TS, PHP, SQL, and more.
@@ -22,7 +22,7 @@ Python, C#, Go, HTML&CSS, JS&TS, PHP, SQL, and more.
 
 
 <h2 align="left">
-🌱 I Currently Have Environment Skils
+I Currently Have Environment Skils
 </h2>
 <h3 align="left">
 Docker, Microsoft Azure, AWS, and more.
@@ -32,7 +32,7 @@ Docker, Microsoft Azure, AWS, and more.
 
 
 <h2 align="left">
-💚 I Love...
+I Love...
 </h2>
 <h3 align="left">
 Designing solutions using Cloud, DevOps, and CI/CD practices.
