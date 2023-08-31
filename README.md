@@ -3,7 +3,7 @@
 
 
 ```
-  I'm a Student, Developer, and Artist!!
+I'm a Student, Developer, and Artist!!
 ```
 
 
