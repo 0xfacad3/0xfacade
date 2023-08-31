@@ -21,7 +21,7 @@ def take_screenshot():
         driver.get('https://honzaap.github.io/GithubCity/?name=Once-a-deadcat&year=2023')
 
         # ウェブサイトがロードされるまで待つ
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(15)
 
         # スクリーンショットを連続して撮影
         screenshots = []
