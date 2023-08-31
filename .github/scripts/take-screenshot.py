@@ -21,18 +21,18 @@ def take_screenshot():
         driver.get('https://honzaap.github.io/GithubCity/?name=Once-a-deadcat&year=2023')
 
         # ウェブサイトがロードされるまで待つ
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(20)
 
         # スクリーンショットを連続して撮影
         screenshots = []
-        for _ in range(100):  # 6秒間、0.05秒ごとにスクリーンショットを撮影
+        for _ in range(100):  # 10秒間、0.05秒ごとにスクリーンショットを撮影
             screenshot = driver.get_screenshot_as_png()
             screenshots.append(screenshot)
             time.sleep(0.05)
 
         # 連続したスクリーンショットからGIFを作成
         images = [Image.open(io.BytesIO(screenshot)) for screenshot in screenshots]
-        images[0].save('screenshot.gif', save_all=True, append_images=images[1:], loop=0, duration=200)
+        images[0].save('screenshot.gif', save_all=True, append_images=images[1:], loop=0, duration=100)
 
     finally:
         driver.quit()
