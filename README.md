@@ -4,15 +4,13 @@
 
 ```
 I'm a Student, Developer, and Artist!!
+
+I love doing things that get me excited!!
 ```
 
 
 </h3>
 
-
-
-
-<h2 align="left">I love doing things that get me excited.</h3>
 
 <h3 align="left">
 
