@@ -4,6 +4,8 @@ import time
 from PIL import Image
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
 
 def take_screenshot():
     # Chromeのオプション設定
@@ -20,14 +22,14 @@ def take_screenshot():
         # ウェブサイトにアクセス
         driver.get('https://honzaap.github.io/GithubCity/?name=Once-a-deadcat&year=2023')
 
-        # ウェブサイトがロードされるまで待つ
         driver.implicitly_wait(15)
 
         # スクリーンショットを連続して撮影
         screenshots = []
-        for i in range(60):  # 6秒間、0.05秒ごとにスクリーンショットを撮影
-            zoom_level = 100 - (i * 0.5)  # Zoom out from 100% to 70%
-            driver.execute_script(f"document.body.style.zoom='{zoom_level}%'")
+        action = ActionChains(driver)
+        for i in range(60):  # 6秒間、0.1秒ごとにスクリーンショットを撮影
+            # ズームアウト
+            action.send_keys(Keys.COMMAND, Keys.SUBTRACT).perform()  # これはMacの場合です。Windowsの場合は、Keys.CONTROLを使用してください。
             screenshot = driver.get_screenshot_as_png()
             screenshots.append(screenshot)
             time.sleep(0.05)
