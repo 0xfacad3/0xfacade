@@ -8,6 +8,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="my-icon" src="./profile.png">
+ <img alt="my-icon" src="profile.png">
 </picture>
 
