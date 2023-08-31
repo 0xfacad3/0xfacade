@@ -1,4 +1,4 @@
-name: Update Screenshot
+name: Update Screenshot with python
 
 on:
   schedule:
