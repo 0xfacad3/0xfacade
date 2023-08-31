@@ -25,8 +25,8 @@ jobs:
       - name: Take screenshot
         run: python .github/scripts/take-screenshot.py
 
-      - name: Commit and push if changed
+      - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          branch: main
-          message: 'Update screenshot'
+          branch: main  
+          message: 'Update screenshot [skip ci]'
