@@ -25,7 +25,7 @@ def take_screenshot():
 
         # スクリーンショットを連続して撮影
         screenshots = []
-        for _ in range(50):  # 5秒間、0.1秒ごとにスクリーンショットを撮影
+        for _ in range(60):  # 5秒間、0.1秒ごとにスクリーンショットを撮影
             screenshot = driver.get_screenshot_as_png()
             screenshots.append(screenshot)
             time.sleep(0.05)
