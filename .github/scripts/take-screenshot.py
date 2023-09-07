@@ -35,6 +35,10 @@ def take_screenshot():
         images = [Image.open(io.BytesIO(screenshot)) for screenshot in screenshots]
         images[0].save('screenshot.gif', save_all=True, append_images=images[1:], loop=0, duration=100)
 
+        # Vercelでセルフホストしてるやつのcacheを更新
+        driver.get('https://github-stats-six-iota.vercel.app/api/top-langs/?username=Once-a-deadcat&layout=compact&show_icons=true&count_private=true')
+        driver.get('https://github-stats-six-iota.vercel.app/api?username=Once-a-deadcat&show_icons=ture&count_private=true')
+
     finally:
         driver.quit()
 
