@@ -25,8 +25,7 @@ I love doing things that get me excited and I'm always looking for new challenge
 <br>
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-stats-six-iota.vercel.app/api/top-langs/?username=Once-a-deadcat&layout=compact&show_icons=true&count_private=true" />
-  <img alt="github stats" height="200px" src="https://github-stats-six-iota.vercel.app/api?username=Once-a-deadcat&show_icons=ture&count_private=true" />
+  
 </p>
 
 
