@@ -1,12 +1,3 @@
-<p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-stats-six-iota.vercel.app/api/top-langs/?username=Once-a-deadcat&layout=compact&show_icons=true&count_private=true&hide=html,css,Blade,Solidity,php,java" />
-  <img alt="github stats" height="200px" src="https://github-stats-six-iota.vercel.app/api?username=Once-a-deadcat&show_icons=ture&count_private=true" />
-</p>
-
-<br>
-<br>
-
-
 <h1 align="left">Hi👋, I'm Cat</h1>
 
 
@@ -17,7 +8,13 @@ I'm a Student, Developer, and Artist 🎨
 I love doing things that get me excited and I'm always looking for new challenges 🔥
 
 
+<br>
+<br>
 
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-stats-six-iota.vercel.app/api/top-langs/?username=Once-a-deadcat&layout=compact&show_icons=true&count_private=true&hide=html,css,Blade,Solidity,php,java" />
+  <img alt="github stats" height="200px" src="https://github-stats-six-iota.vercel.app/api?username=Once-a-deadcat&show_icons=ture&count_private=true" />
+</p>
 
 <br>
 
