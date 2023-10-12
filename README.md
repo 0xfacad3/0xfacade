@@ -1,8 +1,7 @@
-
-<a href="https://honzaap.github.io/GithubCity/">
-  <img src="https://raw.githubusercontent.com/Once-a-deadcat/Once-a-deadcat/main/screenshot.gif" alt="Profile Picture">
-</a>
-
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-stats-six-iota.vercel.app/api/top-langs/?username=Once-a-deadcat&layout=compact&show_icons=true&count_private=true&hide=html,css,Blade,Solidity,php,java" />
+  <img alt="github stats" height="200px" src="https://github-stats-six-iota.vercel.app/api?username=Once-a-deadcat&show_icons=ture&count_private=true" />
+</p>
 
 <br>
 <br>
@@ -22,11 +21,9 @@ I love doing things that get me excited and I'm always looking for new challenge
 
 <br>
 
-<p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-stats-six-iota.vercel.app/api/top-langs/?username=Once-a-deadcat&layout=compact&show_icons=true&count_private=true&hide=html,css,Blade,Solidity,php,java" />
-  <img alt="github stats" height="200px" src="https://github-stats-six-iota.vercel.app/api?username=Once-a-deadcat&show_icons=ture&count_private=true" />
-</p>
-
+<a href="https://honzaap.github.io/GithubCity/">
+  <img src="https://raw.githubusercontent.com/Once-a-deadcat/Once-a-deadcat/main/screenshot.gif" alt="Profile Picture">
+</a>
 
 <br>
 
