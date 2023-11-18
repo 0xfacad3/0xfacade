@@ -64,7 +64,7 @@ Designing solutions using Cloud, DevOps, and CI/CD practices.
 </h2>
 
 
-[Twitter](https://twitter.com/Hey_ImCat)
+[Twitter](https://twitter.com/imcat0131)
 
 
 <br>
