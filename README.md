@@ -2,10 +2,10 @@
 
 
 
-I'm a Student, Developer, and Artist 🎨
+I'm a Student, Developer, and Artist.
 
 
-I love doing things that get me excited and I'm always looking for new challenges 🔥
+I love doing things that get me excited and I'm always looking for new challenges.
 
 
 <br>
