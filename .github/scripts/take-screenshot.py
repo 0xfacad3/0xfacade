@@ -18,7 +18,7 @@ def take_screenshot():
 
     try:
         # ウェブサイトにアクセス
-        driver.get('https://honzaap.github.io/GithubCity/?name=imcat0131&year=2023')
+        driver.get('https://honzaap.github.io/GithubCity/?name=imcat0131&year=2024')
 
         # ウェブサイトがロードされるまで待つ
         driver.implicitly_wait(30)
