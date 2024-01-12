@@ -25,7 +25,7 @@ I love doing things that get me excited and I'm always looking for new challenge
 📘 I currently have framework skils
 </h2>
 
-FastAPI, Next.js, React.js, Nuxt.js, Vue.js, Gin, Fiber, ASP.NET and more.
+FastAPI, .NET, Next.js, React.js, Nuxt.js, Vue.js, Gin, Fiber and more.
 
 
 <br>
@@ -35,7 +35,7 @@ FastAPI, Next.js, React.js, Nuxt.js, Vue.js, Gin, Fiber, ASP.NET and more.
 📗 I currently have environment skils
 </h2>
 
-Docker, Microsoft Azure, AWS, and more.
+AI, Docker, Microsoft Azure, AWS, and more.
 <br>
 <br>
 Studying: Cloud Architecture and more.
@@ -48,7 +48,7 @@ Studying: Cloud Architecture and more.
 📕 I love 
 </h2>
 
-Designing solutions using Cloud, DevOps, and CI/CD practices.
+Designing solutions using Cloud, AI resources, DevOps, and CI/CD practices.
 
 
 
