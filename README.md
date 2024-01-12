@@ -18,10 +18,6 @@ I love doing things that get me excited and I'm always looking for new challenge
 
 <br>
 
-<a href="https://honzaap.github.io/GithubCity/">
-  <img src="https://raw.githubusercontent.com/imcat0131/imcat0131/main/screenshot.gif" alt="Profile Picture">
-</a>
-
 <br>
 
 
