@@ -18,7 +18,7 @@ def take_screenshot():
 
     try:
         # ウェブサイトにアクセス
-        driver.get('https://honzaap.github.io/GithubCity/?name=imcat0131&year=2024')
+        driver.get('https://honzaap.github.io/GithubCity/?name=0xfacade&year=2024')
 
         # ウェブサイトがロードされるまで待つ
         driver.implicitly_wait(30)
@@ -36,8 +36,8 @@ def take_screenshot():
         images[0].save('screenshot.gif', save_all=True, append_images=images[1:], loop=0, duration=100)
 
         # Vercelでセルフホストしてるやつのcacheを更新
-        driver.get('https://github-stats-six-iota.vercel.app/api/top-langs/?username=imcat0131&layout=compact&show_icons=true&count_private=true')
-        driver.get('https://github-stats-six-iota.vercel.app/api?username=imcat0131&show_icons=ture&count_private=true')
+        driver.get('https://github-stats-six-iota.vercel.app/api/top-langs/?username=0xfacade&layout=compact&show_icons=true&count_private=true')
+        driver.get('https://github-stats-six-iota.vercel.app/api?username=0xfacade&show_icons=ture&count_private=true')
 
     finally:
         driver.quit()
