@@ -12,7 +12,7 @@ I love doing things that get me excited and I'm always looking for new challenge
 <br>
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-stats-six-iota.vercel.app/api/top-langs/?username=0xfacad3&layout=compact&show_icons=true&langs_count=10&count_private=true&hide=html,sh,dockerfile,Makefile,css,Blade,php,c,javascript,tex" />
+  <img alt="Top Langs" height="200px" src="https://github-stats-six-iota.vercel.app/api/top-langs/?username=0xfacad3&layout=compact&show_icons=true&langs_count=10&count_private=true&hide=html,sh,dockerfile,Makefile,css,Blade,c,javascript,tex" />
   <img alt="github stats" height="200px" src="https://github-stats-six-iota.vercel.app/api?username=0xfacad3&show_icons=ture&count_private=true" />
 </p>
 
