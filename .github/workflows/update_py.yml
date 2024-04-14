@@ -28,6 +28,8 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
+          author_name: '0xfacad3'
+          author_email: 'catgorogoro994@gmail.com'
           branch: main  
           message: 'Update screenshot'
 
