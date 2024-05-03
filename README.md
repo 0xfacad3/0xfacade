@@ -60,8 +60,9 @@ Designing solutions using Cloud, AI resources, DevOps, and CI/CD practices.
 </h2>
 
 
-[Twitter](https://twitter.com/imcat0131)
+[Twitter](https://twitter.com/0xfacad3)
 
 
 <br>
+
 
