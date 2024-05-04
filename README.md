@@ -20,6 +20,13 @@ I love doing things that get me excited and I'm always looking for new challenge
 
 <br>
 
+<h2 align="left">Blog and Scrap</h2>
+
+[Zenn](https://zenn.dev/0xfacad3?tab=scraps)
+
+<br>
+
+<br>
 
 <h2 align="left">
 📘 I currently have framework skils
